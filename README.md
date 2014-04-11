@@ -17,3 +17,5 @@ The Color Picker works with colors in the CSS RGB format: &quot;rgb([Red],
 [Green], [Blue])&quot;. And yes the sapces are significant. This is both true 
 for the value color given in the colorChanged event and the color to set in
 the color data attribute.
+
+Based on code from [http://jsfiddle.net/6GHzP/3/](http://jsfiddle.net/6GHzP/3/)
